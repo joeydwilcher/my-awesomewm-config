@@ -13,3 +13,6 @@ Mostly just saving this for myself for later, but if you want to install it / co
 - First have [awesomewm](https://awesomewm.org) installed
 - Then just copy / paste (or git clone) the files into ~/.config/awesome
 - Customize as you see fit
+
+## Usage
+To use this without customization, create a ~/Pictures/papes folder and fill it with some dope wallpapes
