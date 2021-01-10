@@ -1,5 +1,7 @@
 # My custom awesome config
 
+Edit of the default files in /etc/xdg/awesome
+
 Mostly just saving this for myself for later, but if you want to install it / copy parts of it feel free.
 
 ## Features
